@@ -31,25 +31,25 @@ This project implements machine learning models to predict weekly sales across 4
 
 **1.1. Sales Distribution and Trends**
 - ![Distribution of Weekly Sales](Visualizations//weekly_sales.png)
-- ![Avgerage Weekly Sales](visualizations/Avg_weekly_sales.png)
+- ![Avgerage Weekly Sales](Visualizations/Avg_weekly_sales.png)
 
 **1.2. Holiday Impact**
-- ![Holiday vs Non-Holiday Sales](visualizations/eda_plots/holiday_vs_nonholiday_sales.png)
+- ![Holiday vs Non-Holiday Sales](Visualizations/eda_plots/holiday_vs_nonholiday_sales.png)
 
 **1.3. Feature Correlation**
-- ![Correlation Heatmap](visualizations/Heat_map.png)
+- ![Correlation Heatmap](Visualizations/Heat_map.png)
 
 ---
 
 ### 2. Model Performance Comparison
 
 **2.1. Model Metrics Overview**
-- ![Model R² Comparison](visualizations/R2_comparison.png)
-- ![Model RMSE Comparison](visualizations/R2_comparison.png)
+- ![Model R² Comparison](Visualizations/R2_comparison.png)
+- ![Model RMSE Comparison](Visualizations/R2_comparison.png)
 
 **2.2. Best Model Evaluation (XGBoost)**
-- ![XGBoost: Predicted vs Actual Sales](visualizations/predicted_vs_actual.png)
-- ![XGBoost: Residuals Analysis](visualizations/Residual.png)
+- ![XGBoost: Predicted vs Actual Sales](Visualizations/predicted_vs_actual.png)
+- ![XGBoost: Residuals Analysis](Visualizations/Residual.png)
 
 ---
 
